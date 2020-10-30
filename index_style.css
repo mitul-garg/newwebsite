@@ -5,6 +5,8 @@ h1 {
     color: #ffba08;
     text-align: center;
     font-family: 'Grenze Gotisch', cursive;
-    font-size: 5vw+3em;
-    
+    font-size: 5vw+3em;   
+}
+#paragraph {
+    color: white;
 }
