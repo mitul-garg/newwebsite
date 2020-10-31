@@ -2,11 +2,8 @@ body {
     background-color: #03071e;
 }
 h1 {
-    color: #ffba08;
+    color: #fca311;
     text-align: center;
-    font-family: 'Grenze Gotisch', cursive;
+    font-family: 'Playfair Display', serif;
     font-size: 5vw+3em;   
-}
-p {
-    color: white;
 }
