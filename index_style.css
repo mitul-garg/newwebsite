@@ -1,9 +1,19 @@
 body {
-    background-color: #03071e;
+    background-color: #0b090a;
+}
+#hindi {
+    color: #f6511d;
+    text-align: center;
+    font-family: hindi;
+    font-size: 2em;
 }
 h1 {
-    color: #fca311;
+    color: #ffb400;
     text-align: center;
     font-family: 'Playfair Display', serif;
     font-size: 5vw+3em;   
+}
+@font-face {
+    font-family: hindi;
+    src:url(Kruti_Dev_010.ttf)
 }
