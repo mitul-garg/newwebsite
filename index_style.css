@@ -1,14 +1,14 @@
 body {
-    background-color: #0b090a;
+    background-color: #f8edeb;
 }
 #hindi {
-    color: #f6511d;
+    color: #050544;
     text-align: center;
     font-family: hindi;
     font-size: 2em;
 }
 h1 {
-    color: #ffb400;
+    color: #050544;
     text-align: center;
     font-family: 'Playfair Display', serif;
     font-size: 5vw+3em;   
