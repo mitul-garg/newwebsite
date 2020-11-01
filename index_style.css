@@ -17,3 +17,7 @@ h1 {
     font-family: hindi;
     src:url(Kruti_Dev_010.ttf)
 }
+header a {
+    color: red;
+    padding: 10px;
+}
